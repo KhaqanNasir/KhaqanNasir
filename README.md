@@ -17,7 +17,7 @@
 
 - 📫 You can reach me at: **khaqannasir01@gmail.com**
 
-- ⚡ Fun fact: **I think I can do Anything!!!**
+- ⚡ Fun fact: **Everything is Possible Through Hardwork**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaqannasir" alt="khaqannasir" /></a> </p>
 
