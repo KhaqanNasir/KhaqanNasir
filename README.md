@@ -1,4 +1,4 @@
-![logo](https://github.com/KhaqanNasir/KhaqanNasir/blob/88259ae0cfe101c8df5c58d584826042ab924a1b/banner.png)
+![logo](https://github.com/KhaqanNasir/KhaqanNasir/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)   
 <h1 align="center">Hello 👋, I'm Muhammad Khaqan Nasir</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan </h3>
 
