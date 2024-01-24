@@ -1,4 +1,4 @@
-![logo](https://github.com/KhaqanNasir/KhaqanNasir/blob/main/OIP.jpg)   
+![logo](https://github.com/KhaqanNasir/KhaqanNasir/blob/main/dot-NET-Standard-Logo-Rectangle.png)   
 <h1 align="center">Hello 👋, I'm Muhammad Khaqan Nasir</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan </h3>
 
