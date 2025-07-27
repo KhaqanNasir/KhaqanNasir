@@ -380,3 +380,5 @@ namespace KhaqanNasir.Profile
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4285F4,512BD4,FFD700&height=100&section=footer" alt="Footer Wave"/>
 
 </div>
+
+
