@@ -319,7 +319,7 @@ namespace KhaqanNasir.Profile
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaqannasir&theme=react&hide_border=true&background=0D1117&stroke=4285F4&ring=512BD4&fire=FFD700&currStreakLabel=FFFFFF" alt="GitHub Streak" width="70%" />
+
 
 </div>
 
