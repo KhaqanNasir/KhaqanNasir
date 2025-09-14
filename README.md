@@ -1,10 +1,3 @@
-<div align="left">
-
-<!-- Profile Views with Consistent Styling -->
-![Profile Views](https://komarev.com/ghpvc/?username=khaqannasir&label=Profile%20Views&color=4285F4&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/khaqannasir?label=Followers&style=for-the-badge&color=512BD4&logoColor=white)
-
-</div>
 
 # Hi, I'm Muhammad Khaqan Nasir ✨   
 💻 ASP.NET Core Developer from Pakistan 🇵🇰  
