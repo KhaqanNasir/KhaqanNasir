@@ -1,5 +1,5 @@
 
-# Hi, I'm Muhammad Khaqan Nasir ✨   
+# ✨ Hi, I'm Muhammad Khaqan Nasir   
 💻 ASP.NET Core Developer from Pakistan 🇵🇰  
 🎓 Computer Science student (7th Semester)  
 🏆 International Hackathon Winner – GenAI.works  
